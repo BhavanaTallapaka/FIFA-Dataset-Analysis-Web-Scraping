@@ -100,6 +100,18 @@ Some insights obtained from the dataset include:
 
 ---
 
+## Sample Visualization
+
+### Player's Name V/s Player's Wage
+
+<img width="1170" height="605" alt="image" src="https://github.com/user-attachments/assets/61f07435-4a7e-4190-a285-158933893674" />
+
+### The players whose values >10 but wage <50
+
+<img width="659" height="579" alt="image" src="https://github.com/user-attachments/assets/79e3c127-077b-460b-9bc6-6217bfa25273" />
+
+---
+
 ## How to Run the Project
 
 Clone the repository: git clone https://github.com/BhavanaTallapaka/FIFA-Dataset-Analysis-Web-Scraping.git
